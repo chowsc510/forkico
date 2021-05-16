@@ -1,3 +1,0 @@
-$ cd contract\secret
-$ cp infura.example.json infura.json
-$ cp mnemonic.example.json mnemonic.json
